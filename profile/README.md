@@ -80,3 +80,4 @@
   - [프론트엔드](https://github.com/rainbowgon/opentheDoor-frontend)
   - [백엔드](https://github.com/rainbowgon/opentheDoor-backend)
   - [크롤링](https://github.com/rainbowgon/opentheDoor-crawling)
+  - [예약 동작](https://github.com/rainbowgon/opentheDoor-reserving)
