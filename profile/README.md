@@ -76,7 +76,7 @@
 ## 🗃 Projects
 
 - 하루 만 원으로 시작해보는 당신의 절약 습관, 하루만 [[바로가기](https://github.com/rainbowgon/haruman)]
-- 오픈더도어(opentheDoor)
+- 오픈더도어(opentheDoor) [[바로가기](https://github.com/rainbowgon/opentheDoor)]
   - [프론트엔드](https://github.com/rainbowgon/opentheDoor-frontend)
   - [백엔드](https://github.com/rainbowgon/opentheDoor-backend)
   - [크롤링 서버](https://github.com/rainbowgon/opentheDoor-crawling)
