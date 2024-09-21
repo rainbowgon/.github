@@ -34,8 +34,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/namgons">
-        <img src="https://github.com/namgons.png" alt="이남곤" />
+      <a href="https://github.com/modisfive">
+        <img src="https://github.com/modisfive.png" alt="이남곤" />
       </a>
     </td>
   </tr>
@@ -66,7 +66,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/namgons">
+      <a href="https://github.com/modisfive">
         <b>이남곤 🟣</b>
       </a>
     </td>
